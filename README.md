@@ -35,7 +35,7 @@ kv类项目
 |  valkey   |      https://github.com/valkey-io/valkey |      是 |    c |                     fork自redis |
 |   keydb   |        https://github.com/Snapchat/KeyDB |      是 |  c++ |                       多线程redis |
 | dragonfly | https://github.com/dragonflydb/dragonfly |      是 |  c++ |                       多线程redis |
-|  、garnet  |      https://github.com/microsoft/garnet |      是 |   c# |                                |
+|  garnet   |      https://github.com/microsoft/garnet |      是 |   c# |                                |
 |   ssdb    |             https://github.com/tikv/tikv |      是 | rust |             磁盘型redis，基于leveldb |
 |   pika    |          https://github.com/apache/hbase |      是 |  c++ |             磁盘型redis，基于rocksdb |
 |  kvrocks  |        https://github.com/apache/kvrocks |      是 |  c++ |             磁盘型redis，基于rocksdb |
