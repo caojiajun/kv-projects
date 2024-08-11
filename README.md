@@ -21,11 +21,12 @@ kv类项目
 
 ## 分布式kv
 
-|   项目名称    |                                项目地址 | 是否生产可用 | 开发语言 |               说明 |
-|:---------:|------------------------------------:|-------:|-----:|-----------------:|
-|   tikv    |        https://github.com/tikv/tikv |      是 | rust | 基于rocksdb + raft |
-|   hbase   |     https://github.com/apache/hbase |      是 | java |           基于hdfs |
-| cassandra | https://github.com/apache/cassandra |      是 | java |                  |
+|   项目名称    |                                   项目地址 | 是否生产可用 | 开发语言 |               说明 |
+|:---------:|---------------------------------------:|-------:|-----:|-----------------:|
+|   tikv    |           https://github.com/tikv/tikv |      是 | rust | 基于rocksdb + raft |
+|   hbase   |        https://github.com/apache/hbase |      是 | java |           基于hdfs |
+| cassandra |    https://github.com/apache/cassandra |      是 | java |                  |
+|   obkv    | https://github.com/oceanbase/oceanbase |      是 |  c++ |                  |
 
 ## 兼容redis协议
 
