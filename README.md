@@ -29,12 +29,14 @@ kv类项目
 
 ## 分布式kv
 
-|   项目名称    |                                   项目地址 | 主要开发语言 |               说明 |
-|:---------:|---------------------------------------:|-------:|-----------------:|
-|   tikv    |           https://github.com/tikv/tikv |   rust | 基于rocksdb + raft |
-|   hbase   |        https://github.com/apache/hbase |   java |           基于hdfs |
-| cassandra |    https://github.com/apache/cassandra |   java |                  |
-|   obkv    | https://github.com/oceanbase/oceanbase |    c++ |                  |
+|   项目名称    |                                          项目地址 | 主要开发语言 |               说明 |
+|:---------:|----------------------------------------------:|-------:|-----------------:|
+|   tikv    |                  https://github.com/tikv/tikv |   rust | 基于rocksdb + raft |
+|   hbase   |               https://github.com/apache/hbase |   java |           基于hdfs |
+| cassandra |           https://github.com/apache/cassandra |   java |                  |
+|   obkv    |        https://github.com/oceanbase/oceanbase |    c++ |                  |
+| aerospike | https://github.com/aerospike/aerospike-server |      c |                  |
+|  pegasus  |   https://github.com/apache/incubator-pegasus |    c++ |                  |
 
 ## 兼容redis协议
 
